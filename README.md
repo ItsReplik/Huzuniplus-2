@@ -1,9 +1,6 @@
 # Huzuni Plus 2
 
-mañana hago un readme bieeeen piola
-
-- Cliente full choto
-- los creditos buscalos en https://github.com/WarriorCrystal/CheatBreakerPlus-src
-- packers marica
-
-uzsuni plos tuo en la parte de arriva
+-Esto es un utility mod anarquico inspirado en el skid the iEmerece
+-Cliente bastante desactualizado(cambiara en un futuro) 
+-W+2 skid 
+-Creado por Warrior y el otro developer es mapeadoh
